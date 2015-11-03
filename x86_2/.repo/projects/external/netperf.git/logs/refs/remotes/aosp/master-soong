@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 27ffe986a2933b1ff0eecbcc51a807d130e254ec shine <shine@shine-VirtualBox.(none)> 1446216257 -0700	fetch --progress /home/shine/x86_2/.repo/projects/external/netperf.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

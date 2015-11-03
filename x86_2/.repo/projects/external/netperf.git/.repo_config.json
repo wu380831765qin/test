@@ -1,0 +1,17 @@
+{
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "remote.aosp.url": [
+    "https://android.googlesource.com/platform/external/netperf"
+  ], 
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.aosp.fetch": [
+    "+refs/heads/*:refs/remotes/aosp/*"
+  ], 
+  "remote.aosp.projectname": [
+    "platform/external/netperf"
+  ]
+}

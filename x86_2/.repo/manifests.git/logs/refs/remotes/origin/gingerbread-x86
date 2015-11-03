@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 507ad7895cf4b49cf1822d828f3768eed8d6a6c4 qin feng <wu380831765gmail.com> 1446216043 -0700	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/kitkat-x86:refs/remotes/origin/kitkat-x86: storing head

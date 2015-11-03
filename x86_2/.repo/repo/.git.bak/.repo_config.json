@@ -1,0 +1,26 @@
+{
+  "core.logallrefupdates": [
+    "true"
+  ], 
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "core.bare": [
+    "false"
+  ], 
+  "remote.origin.url": [
+    "https://gerrit.googlesource.com/git-repo"
+  ], 
+  "branch.default.merge": [
+    "refs/heads/stable"
+  ], 
+  "branch.default.remote": [
+    "origin"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}

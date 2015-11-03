@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5d0c3a614edc3f3d5967cfc07c7981da7013ea91 shine <shine@shine-VirtualBox.(none)> 1446216030 -0700	fetch --quiet /home/shine/x86_2/.repo/repo/.git/clone.bundle +refs/heads/*:refs/remotes/origin/* refs/tags/*:refs/tags/*: storing head
+5d0c3a614edc3f3d5967cfc07c7981da7013ea91 c2a64ddffd397f28c1187da1cc07f29825b7d0fb shine <shine@shine-VirtualBox.(none)> 1446216034 -0700	fetch origin +refs/heads/*:refs/remotes/origin/* refs/tags/*:refs/tags/*: fast-forward

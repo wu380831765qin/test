@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled 
+87b927fe93a3f8e6a87e08015ed55a44b64a8f71 refs/remotes/origin/android-x86-1.6
+bf2bf5036f15499b9502ba6ed589426899ae7555 refs/remotes/origin/android-x86-2.2
+03cfded2ab43174674b599366b6d1f4f0ba1e454 refs/remotes/origin/android-x86-2.2-r2
+a8a081fc437890d96b0f5926a1daa0b934c56356 refs/remotes/origin/android-x86-4.0-r1
+c38637928431de750246bbf4962038686ca5994a refs/remotes/origin/android-x86-4.4-r1
+c0babc4e6df67645e3d05f9c4a606fe27a090c8f refs/remotes/origin/android-x86-4.4-r2
+25c8374c73702a7ccc975170bb74ef215e9c4b78 refs/remotes/origin/android-x86-4.4-r3
+18f82e80e3fe60f2379e030e5de92d3c2ef3ba5d refs/remotes/origin/cupcake-x86
+8b703787785179089a3f72bdc481a83b7e8d6d6a refs/remotes/origin/donut-x86
+1f1151f26c9b19d3740e323d1a524a53487fe5bc refs/remotes/origin/eclair-x86
+4b45724cf9c6f7bdee74f766fdb5acaee4e2a48f refs/remotes/origin/froyo-x86
+507ad7895cf4b49cf1822d828f3768eed8d6a6c4 refs/remotes/origin/gingerbread-x86
+68e30da58943267cbcad476fa0f9cb9fb8b20b69 refs/remotes/origin/honeycomb-x86
+36029bb189c078676c9685d00c3cd02792e8c95f refs/remotes/origin/ics-x86
+085c7b15558b9af03ab3079d70555331d34f736e refs/remotes/origin/jb-x86
+c3dd828fad6cee0c01582a401d5b5e3c652cc450 refs/remotes/origin/kitkat-x86
+0fe013e5ba45f03c352943210cbfd6b802279802 refs/remotes/origin/lollipop-x86
+e158dace2dab1e0be47384be9809696ab5699caa refs/remotes/origin/marshmallow-x86
